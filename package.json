@@ -1,0 +1,21 @@
+{
+  "name": "project_000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server 'public' --files 'public'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbertin/project_000.git"
+  },
+  "keywords": [],
+  "author": "Gilberto Morales <gilbertomohdz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gilbertin/project_000/issues"
+  },
+  "homepage": "https://github.com/gilbertin/project_000#readme"
+}
